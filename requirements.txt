@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2014 SAP SE Srdjan Boskovic <srdjan.boskovic@sap.com>
+#
+# SPDX-License-Identifier: Apache-2.0
+
+argparse==1.2.1
+py==1.4.27
+pyrfc==1.9.4
+pyshlp==0.1.0
+pytest==2.7.0
+wsgiref==0.1.2
